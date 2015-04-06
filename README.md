@@ -14,7 +14,7 @@ To build, run:
 
 After building the update site you will need to define a couple of environment variables to allow the DataFlow operator projects to find the site and to determine the DataFlow version to use.  The version number can be determined from the output of the Maven build.
 
-    export DATAFLOW_REPO_HOME=/Users/myuser/dfops/dataflow-p2-site
+    export DATAFLOW_REPO_HOME=/Users/myuser/dataflow-p2-site
     export DATAFLOW_VER=6.5.0.117
 
 
