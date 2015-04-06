@@ -1,6 +1,6 @@
 # dataflow-p2-site
 
-This Maven POM is used to setup a local Eclipse update site for the Actian DataFlow components needed to building custom DataFlow operators.
+This Maven POM is used to setup a local Eclipse update site for the Actian DataFlow components needed to build custom DataFlow operators.
 
 ## Building
 
