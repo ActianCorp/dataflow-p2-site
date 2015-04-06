@@ -28,7 +28,6 @@
     <properties>
         <tycho.version>0.22.0</tycho.version>
         <dataflow.url>http://docs.pervasive.com/products/DataFlow/updates/ide</dataflow.url>
-        <dataflow.lib>${env.DATAFLOW_LIB}</dataflow.lib>
     </properties>
 
     <build>
@@ -77,7 +76,6 @@
                         </goals>
                         <configuration>
                             <append>false</append>
-                            <latestVersionOnly>false</latestVersionOnly>
                             <artifactRepositoryLocation>${project.build.directory}/local_dataflow_repository
                             </artifactRepositoryLocation>
                             <metadataRepositoryLocation>${project.build.directory}/local_dataflow_repository
