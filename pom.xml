@@ -27,7 +27,7 @@
 
     <properties>
         <tycho.version>0.22.0</tycho.version>
-        <dataflow.url>http://docs.pervasive.com/products/DataFlow/updates/ide</dataflow.url>
+        <dataflow.url>http://dataflowrepo.actian.com/latest/desktop</dataflow.url>
     </properties>
 
     <build>
